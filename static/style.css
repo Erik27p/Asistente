@@ -1,0 +1,149 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1818;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#header {
+    width: 100px;
+    height: 100px;
+}
+
+#conte {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #c5c0c0;
+    text-align: center;
+}
+
+#conten {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background-color: #0056b3;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#cont {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1a1818;
+    border-radius: 20px;
+}
+
+.conr {
+    width: 400px; 
+}
+
+.conr input {
+    border: 1px solid #ccc;
+    margin: 5px;
+    padding: 10px;
+}
+
+h1 {
+    color: #c5c0c0;
+}
+
+p {
+    color: #777474;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ccc;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #535252;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #333232;
+    color: #d8d2d2;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.boton {
+    background-color: #007bff;
+    color: #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.boton:hover {
+    background-color: #0056b3;
+    text-decoration: dashed;
+}
+
+#pell {
+    position: absolute;
+    width: 400px;
+    height: 800px;
+    background-color: #0056b3;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#pill {
+    position: absolute;
+    width: 400px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1a1818;
+    border-radius: 20px;
+}
+
+.conrt {
+    width: 400px;
+}
+
+.conrt input {
+    margin: 5px;
+    padding: 10px;
+}
