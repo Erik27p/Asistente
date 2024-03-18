@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 from ia import answer_question
 
-app = Flask(__name__, template_folder='C:/Users/JANUS/Documents/iahis', static_folder='C:/Users/JANUS/Documents/iahis/static')
+app = Flask(__name__, template_folder='C:/Users/tu_usuario/Documents/iahis', static_folder='C:/Users/tu_usuario/Documents/iahis/static')
 
 @app.route('/')
 def index():
