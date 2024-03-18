@@ -7,10 +7,9 @@ Bibliotecas de Python: nltk, scikit-learn
 # Instalación
 > [!NOTE]
 > Edita la ruta tal como se muestra.
-bash
-Copy code
-git clone https://github.com/tu_usuario/asistente-virtual.git
-Instala las dependencias:
+```
+pp = Flask(__name__, template_folder='C:/Users/tu_usuarioDocuments/iahis', static_folder='C:/Users/tu_usuario/Documents/iahis/static')
+```
 
 bash
 Copy code
